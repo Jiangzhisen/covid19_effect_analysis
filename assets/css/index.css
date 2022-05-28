@@ -149,6 +149,11 @@ body{
     margin: 3%;
     width: 75%;
 }
+.database p{
+    font-size: 25px;
+    margin-bottom: 3%;
+    font-weight: bolder;
+}
 .back-to-top{
     display: none;
 
